@@ -1,11 +1,11 @@
 PRAKTIKUM HARI PERTAMA   
 By Khanifa Eka Nuryati   
 175410074  
-1. Melakukan Konfigurasi Git
+1. Melakukan Konfigurasi Git   
 ![1](pict/login.png)
-2. Cek Config pada Git
+2. Cek Config pada Git  
 ![1](pict/config.png)
-3. Membuat Repositori pada Git
+3. Membuat Repositori pada Git  
 
     Pilih pada New Repository, kemudian tuliskan nama repository yang dikehendaki.
 ![1](pict/newreporev.png)

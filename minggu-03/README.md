@@ -1,13 +1,13 @@
-Hai   
-#Apa Yang Dimaksud Dengan Software as a Service ?  
+Hai     
+#Apa Yang Dimaksud Dengan Software as a Service ?    
 Software as a service atau yang biasa dikenal dengan SaaS, adalah suatu layanan yang dibentuk didalam suatu perangkat lunak. SaaS sendiri bertujuan untuk memberikan kemudahan para pengembang aplikasi berbasis web yang nantinya akan diakses dan digunakan oleh pelanggannya dengan koneksi Internet.
 
 ##Arsitektur SaaS  
 Model SaaS meliputi konsep-konsep dalam arsitektur aplikasi terdistribusi tetapi lebih lanjut memperluas arsitektur untuk menyertakan komponen untuk memfasilitasi dan meningkatkan model
-bisnis. Sebuah vendor perangkat lunak tradisional terutama berkaitan dengan kemampuan aplikasi dan pelanggan mereka yang bertanggung jawab untuk mengoperasikan dan mengelola lingkungan yang bersangkutan di mana mereka menjalankan perangkat lunak. 
+bisnis. Sebuah vendor perangkat lunak tradisional terutama berkaitan dengan kemampuan aplikasi dan pelanggan mereka yang bertanggung jawab untuk mengoperasikan dan mengelola lingkungan yang bersangkutan di mana mereka menjalankan perangkat lunak.   
 
-![1](image/1.png)
-![2](image/2.png)  
+![1](image/1.png)  
+![2](image/2.png)    
 
 ##Cloud Software asaService (SaaS).  
 Kemampuan yang diberikan kepada konsumen adalah dengan menggunakan aplikasi penyedia yang berjalan pada infrastruktur awan. Aplikasi dapat diakses dari berbagai perangkat klien
@@ -31,8 +31,8 @@ Musuh utama dari SaaS adalah aplikasi-aplikasi open source. Tentu saja, alasan o
 
 Tipe layanan berikutnya adalah Platform as a Service (PaaS). Mirip dengan SaaS, PaaS juga menawarkan layanan aplikasi, hanya saja PaaS juga menawarkan platform yang kita butuhkan untuk membuat aplikasi-aplikasi. PaaS juga sering disebut cloudware, dikarenakan kita mengakses platform tersebut via cloud computing.  
 
-##Contoh SaaS
-![3](image/3.jpg)   
+##Contoh SaaS  
+![3](image/3.jpg)     
 
 
-- 175410074 -
+         175410074 

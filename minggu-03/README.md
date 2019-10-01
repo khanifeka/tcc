@@ -1,4 +1,4 @@
-Hai !  
+Hai   
 #Apa Yang Dimaksud Dengan Software as a Service ?  
 Software as a service atau yang biasa dikenal dengan SaaS, adalah suatu layanan yang dibentuk didalam suatu perangkat lunak. SaaS sendiri bertujuan untuk memberikan kemudahan para pengembang aplikasi berbasis web yang nantinya akan diakses dan digunakan oleh pelanggannya dengan koneksi Internet.
 

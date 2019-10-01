@@ -5,8 +5,8 @@ Software as a service atau yang biasa dikenal dengan SaaS, adalah suatu layanan 
 Model SaaS meliputi konsep-konsep dalam arsitektur aplikasi terdistribusi tetapi lebih lanjut memperluas arsitektur untuk menyertakan komponen untuk memfasilitasi dan meningkatkan model
 bisnis. Sebuah vendor perangkat lunak tradisional terutama berkaitan dengan kemampuan aplikasi dan pelanggan mereka yang bertanggung jawab untuk mengoperasikan dan mengelola lingkungan yang bersangkutan di mana mereka menjalankan perangkat lunak.   
 
-![1](image/1.PNG)  
-![2](image/2.PNG)    
+![1](image/1.png)  
+![2](image/2.png)    
 
 ##Cloud Software asaService (SaaS).  
 Kemampuan yang diberikan kepada konsumen adalah dengan menggunakan aplikasi penyedia yang berjalan pada infrastruktur awan. Aplikasi dapat diakses dari berbagai perangkat klien
@@ -31,7 +31,6 @@ Musuh utama dari SaaS adalah aplikasi-aplikasi open source. Tentu saja, alasan o
 Tipe layanan berikutnya adalah Platform as a Service (PaaS). Mirip dengan SaaS, PaaS juga menawarkan layanan aplikasi, hanya saja PaaS juga menawarkan platform yang kita butuhkan untuk membuat aplikasi-aplikasi. PaaS juga sering disebut cloudware, dikarenakan kita mengakses platform tersebut via cloud computing.  
 
 ##Contoh SaaS  
-![3](image/3.JPG)     
+![3](image/3.jpg)     
 
-
-         175410074 
+#175410074 

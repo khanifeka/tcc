@@ -19,7 +19,7 @@ Verifikasi akan dikirimkan ke email yang dituliskan.
 ![project](images/createproject.JPG)  
 ![project](images/my.JPG)  
 
-6. Now 
+6. Now   
 ![project](images/now.JPG)  
 ![project](images/welcome.JPG)  
 

@@ -41,12 +41,12 @@ Bagaimana membuat Docker image untuk menjalankan Website static HTML menggunakan
 1. Create Docker file  
 ![Create](images/file.jpg)    
 
-2. Build Docker Image  
- Create Docker file    
-![Build](images/Build.jpg)   
+2. Build Docker Image    
+![Build](images/image.jpg)   
 
 3. Run  
-![run](images/run.jpg)   
+![run](images/run.jpg)  
+
 Mengakses docker image melalui port 80    
 ![Picture1](images/Picture1.jpg)     
 Hello World ini dapat diganti dengan Kata lain. Stop terlebih dahulu docker yang sedang berjalan, kemudian rm dan build kembali webserver.  

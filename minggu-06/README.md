@@ -45,8 +45,7 @@ Bagaimana membuat Docker image untuk menjalankan Website static HTML menggunakan
 ![Build](images/image.jpg)   
 
 3. Run  
-![run](images/run.jpg)  
-
+![run](images/run.jpg)    
 Mengakses docker image melalui port 80    
 ![Picture1](images/Picture1.jpg)     
 Hello World ini dapat diganti dengan Kata lain. Stop terlebih dahulu docker yang sedang berjalan, kemudian rm dan build kembali webserver.  
@@ -60,19 +59,19 @@ Docker Image dibangun berdasarkan Dockerfile.   Dockerfile mendefinisikan semua 
 ini berfungsi untuk membuat Docker File.  
 
 2. Running Commands    
-![copy](images/copy.jpg)    
+![copy](images/copy.JPG)    
 untuk mengkopi index.html kedalam directory yang dipanggil.  
 
 3. Exposing Ports  
-![ports](images/port.jpg)    
+![ports](images/port.JPG)    
 Supaya Docker image dapat diakses melalui port yang sudah ditentukan.  
 
 4. Default Commands    
-![nginx](images/n.jpg)    
+![nginx](images/n.JPG)    
 untuk menjalankan nginx.  
 
 5. Building Containers    
-![docimage](images/d.jpg)    
+![docimage](images/d.JPG)    
 ![build](images/b.jpg)      
 
 6. Launching New Image    

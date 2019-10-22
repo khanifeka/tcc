@@ -60,11 +60,11 @@ Docker Image dibangun berdasarkan Dockerfile.   Dockerfile mendefinisikan semua 
 ini berfungsi untuk membuat Docker File.  
 
 2. Running Commands    
-![copy](images/c.jpg)    
+![copy](images/copy.jpg)    
 untuk mengkopi index.html kedalam directory yang dipanggil.  
 
 3. Exposing Ports  
-![ports](images/p.jpg)    
+![ports](images/port.jpg)    
 Supaya Docker image dapat diakses melalui port yang sudah ditentukan.  
 
 4. Default Commands    
